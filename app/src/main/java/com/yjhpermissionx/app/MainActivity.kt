@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     private fun call() {
         try {
             val intent = Intent(Intent.ACTION_CALL)
-            intent.data = Uri.parse("tel:1008")
+            intent.data = Uri.parse("tel:10086")
             startActivity(intent)
         } catch (e: SecurityException){
             e.printStackTrace()
