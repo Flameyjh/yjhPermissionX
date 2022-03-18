@@ -1,2 +1,2 @@
 # yjhPermissionX
-andriod-SDK开发-权限允许
+andriod: SDK开发-权限允许
